@@ -1558,4 +1558,3 @@ message("✅ Meta-analysis completed successfully.")
 message("✅ Outputs saved in: ", output_dir)
 message("✅ Requested composites saved: Figure_4–Figure_8 (PDF + PNG) in ", output_dir)
 message("✅ Orchard plots attempted; see orchard_log.txt for details.")
-
