@@ -1,0 +1,58 @@
+study_id,Climate_Zone,Experiment_Type,Crop_Type,Growth_Stage_Treated,Drought_Level,Drought_Timing,Soil_Texture,Soil_Organic_Matter_percent,Soil_EC_dS_m,Soil_pH,Biochar_Feedstock,Biochar_Rate_t_ha,Biochar_pH,Biochar_CEC,Biochar_TOC_percent,Outcome_Variable,Outcome_Unit,treatment_mean,treatment_SD,treatment_n,control_mean,control_SD,control_n
+Zhang et al. (2024b),Cwa,Field,Maize,Whole season,Moderate,Whole season,NA,NA,NA,NA,NA,30,NA,NA,NA,Crop Productivity,kg/ha,8800,250,3,6500,200,3
+Wang et al. (2025),Cwa,Field,Maize,Vegetative stage,Moderate,Vegetative stage,NA,NA,NA,NA,NA,0,NA,NA,NA,Crop Productivity,kg/ha,10238.4,367.6,3,10209.4,325.8,3
+Yang et al. (2018),Cfa,Field,Rice,Whole season,None (Control),NA,NA,NA,NA,NA,NA,40,NA,NA,NA,Crop Productivity,kg/ha,8550,7.19,3,7380,2.635,3
+Ghori et al. (2019),BSh,Pot,Spinach,Whole season,None (Control),NA,NA,77,2.38,NA,NA,10,8.73,NA,71,Water Use Efficiency,kg/m³,9.3,1,3,4,0.5,3
+Elbashier et al. (2018),NA,Pot,Melon,Whole season,Salinity (Non-drought),Whole season,Loam,0.99,1.06,7.7,NA,50,6.5,NA,NA,Crop Productivity,kg/ha,225000,"15,000",3,85000,"10,000",3
+Huang et al. (2019),NA,Field,Wheat,Whole season,Salinity (Non-drought),Whole season,Clay loam,NA,4.77,NA,NA,30,NA,NA,NA,Crop Productivity,kg/ha,5350,150,4,6050,160,4
+Abd El-Mageed et al. (2021),BWh,Field,Faba bean,Whole season,Severe,Whole season,Loamy sand,1.53,7.23,7.65,NA,10,7.12,46.5,42.7,Crop Productivity,kg/ha,4400,200,3,2700,200,3
+Aiad et al. (2021),NA,Field,Wheat,Whole season,Salinity (Non-drought),Whole season,Clay,1.24,7.65,8.56,NA,NA,NA,NA,0.44,Crop Productivity,kg/ha,5062,10,4,4666,10,4
+Hazman et al. (2022),BWh,Field,Tomato,Whole season,Combined salinity–osmotic stress,Whole season,Sandy loam,2.5,NA,7.85,NA,NA,NA,NA,NA,Crop Productivity,kg/ha,27000,"3,350",5,21000,"3,350",5
+Manzoor et al. (2022),Cfa,Field,Tea (Camellia sinensis),Whole season,None (Control),NA,Clay,NA,108,4.35,NA,NA,NA,NA,NA,Soil Functional Properties,g/cm³,1.11,0.04,4,1.23,0.04,4
+Abiya et al. (2022),Cwb,Pot,"Kale, Swiss chard",Whole season,Moderate–Severe,Whole season,NA,NA,NA,NA,Cattle dung slurry,NA,NA,NA,NA,Crop Productivity,NA,112,6.93,3,50,5.2,3
+Ramadan et al. (2023),BSh,Field,Faba bean,Whole season,Moderate,Whole season,NA,NA,NA,NA,NA,NA,NA,NA,NA,Water Use Efficiency,kg/m³,1.65,0.07,3,1.1,0.09,3
+Ali et al. (2023),BWh,Pot,Barley,Germination–seedling,Mild,Germination stage,Sand,NA,1.097,7.73,NA,NA,NA,NA,NA,Crop Productivity,Day?¹,2.47,0.66,3,0.93,0.66,3
+Ali et al. (2023),BWh,Pot,Barley,Germination–seedling,Mild,Germination stage,Sand,16.72,1.097,7.73,NA,NA,NA,NA,NA,Crop Productivity,Day?¹,2.47,1.32,3,0.93,1.32,3
+Chang et al. (2024),Dwa,Field,Wheat,Whole season,None (Control),Vegetative–reproductive,NA,NA,NA,NA,NA,NA,NA,NA,NA,Crop Productivity,kg/ha,5563.86,11.57,3,4392.37,112.36,3
+Guo et al. (2025),Cwa,Field,Rice,Whole season,Mild,Whole season,NA,NA,NA,8.17,NA,NA,NA,NA,NA,Crop Productivity,kg/ha,8520.9,371.4,3,7353.7,280.5,3
+Chowdhury et al. (2024),NA,Pot,Wheat,Reproductive stage,Severe,Reproductive stage,Silty clay loam,1.14,NA,6.34,NA,30,7.07,16.2,0.44,Crop Productivity,kg/ha,3940,730,3,2600,520,3
+Adeyemi Ogunwole et al. (2025),NA,Field,Plantain (Musa spp.),Whole season,None (Control),NA,Sandy loam,5.09,0.23,5.25,NA,20,8.7,NA,52.3,Crop Productivity,kg/ha,23.19,2.91,12,16.89,5.4,12
+Egilla et al. (2001),Cfa,Pot,Hibiscus rosa-sinensis,Vegetative stage,Severe,NA,Loamy,NA,NA,6,NA,NA,NA,NA,NA,Crop Productivity,g,78.1,3,10,54.1,1.7,10
+Saudy et al. (2023),BWh,Field,Wheat,Whole season,Moderate–Severe,Whole season,Sandy clay loam,1.89,1.11,7.7,NA,NA,NA,NA,NA,Crop Productivity,kg/ha,6220,250,4,5360,200,4
+Wan et al. (2023b),Cfa,Pot,Maize,NA,Mild,Whole season,Silty clay loam,0.18,0.36,7.7,SWP,NA,7.9,3.2,85.5,Plant Functional Traits & Physiology,m,90.24,15.07,4,66.06,11.19,4
+Wan et al. (2023b),Cfa,Pot,Maize,NA,Mild,Whole season,Silty clay loam,0.18,0.36,7.7,WSP,NA,9.9,6.2,68.3,Plant Functional Traits & Physiology,g plant?¹,0.72,0.04,4,0.44,0.05,4
+Wan et al. (2023b),Cfa,Pot,Maize,NA,Mild,Whole season,Silty clay loam,0.18,0.36,7.7,WSP,NA,9.9,6.2,68.3,Crop Productivity,g/plant,61.74,2.35,4,21.43,3.6,4
+Gul et al. (2023),BSh,Pot,Barley,NA,Moderate,Vegetative stage,Loamy,0.74,0.45,7.5,NA,NA,NA,NA,NA,Crop Productivity,%,90,3,3,65,3,3
+Gul et al. (2023),BSh,Pot,Barley,NA,Moderate,Vegetative stage,Loamy,0.74,0.45,7.5,NA,NA,NA,NA,NA,Crop Productivity,g/plant,0.25,0.02,3,0.12,0.02,3
+Turan et al. (2023),NA,Pot,Tomato,NA,Moderate,NA,NA,1.87,0.54,7.05,NA,NA,NA,NA,NA,Crop Productivity,g/plant,52,2,3,30,2,3
+Oo et al. (2018),NA,Field,Komatsuna,NA,NA,NA,Silt loam,26.7,0.1,5.3,NA,NA,NA,NA,NA,Soil Functional Properties,g/cm³,29,3,3,38,2.5,3
+Sehar et al. (2021),BSh,Pot,Barley,Vegetative stage,Severe,Early growth stage,NA,NA,NA,NA,NA,NA,NA,NA,NA,Crop Productivity,g/plant,108.8,7.9,3,150,3.88,3
+Imran et al. (2023),BSh,Pot,Soybean,Vegetative stage,Moderate,Early growth stage,NA,NA,NA,NA,NA,NA,NA,NA,NA,Crop Productivity,NA,5.2,0.15,3,3.1,0.12,3
+Zainurin et al. (2025),Af,Pot,Rice,Vegetative stage,Moderate,NA,NA,1.2,NA,NA,NA,NA,NA,NA,NA,Plant Functional Traits & Physiology,mg/m²,575,20,5,400,20,5
+Dhakal et al. (2025a),Aw,Pot,Wheat,Vegetative stage,Severe,Vegetative–reproductive,Sandy loam,2.04,1.42,7.9,NA,40,10.1,34.21,67.2,Crop Productivity,kg/ha,6400,300,4,2000,300,4
+Toffanin et al. (2023),Cfa,Field,Soybean,Reproductive stage,NA,Reproductive stage,Sand,NA,NA,NA,NA,NA,NA,NA,NA,Crop Productivity,kg/ha,2700,500,3,1000,500,3
+Guo et al. (2021),Cfa,Pot,Tomato,Whole season,Mild,Whole season,NA,NA,NA,NA,NA,6.667,NA,NA,NA,Crop Productivity,kg/ha,96400,160,3,62280,180,3
+Hafez et al. (2021),BWh,Field,Faba bean,Whole season,Moderate,Whole season,Clay,1.29,5.24,8.02,NA,NA,NA,NA,NA,Crop Productivity,kg/ha,2700,160,4,1600,140,4
+Nehela et al. (2021),BWh,Field,Maize,Whole season,Salinity (Non-drought),Whole season,NA,NA,5.4,8.1,NA,NA,NA,NA,NA,Crop Productivity,kg/ha,5260,20,3,4300,50,3
+Abdelrasheed et al. (2021),BWh,Field,Onion,Whole season,Moderate,Whole season,NA,NA,NA,8.1,NA,NA,NA,NA,NA,Crop Productivity,kg/ha,20500,500,3,14200,600,3
+Alharbi et al. (2022c),BWh,Field,Soybean,Whole season,Moderate,Whole season,Clay loam,1.39,6.76,8.17,NA,NA,NA,NA,NA,Crop Productivity,kg/ha,2040,50,3,1620,30,3
+Ghanem et al. (2022),BWh,Pot,Wheat,Whole season,Moderate,Whole season,Sand,0.79,0.79,8.45,Eucalyptus,15,8.11,10.6,21.31,Water Use Efficiency,kg/m³,1.35,0.09,3,0.95,0.05,3
+Obadi et al. (2023),NA,Pot,Tomato,Whole season,Moderate,Whole season,Loamy sand,3.53,2.46,7.27,NA,50,8.82,NA,60,Water Use Efficiency,kg/m³,36,2.08,3,29,2.08,3
+Lalay et al. (2024),BSh,Pot,Brassica napus,Early growth stage,Moderate,Vegetative stage,NA,NA,NA,NA,NA,NA,NA,NA,NA,Plant Functional Traits & Physiology,mg g?¹ FW,33.5,1.39,3,19.2,1.39,3
+Andrews et al. (2024),Csa,Field,Orchard,Vegetative stage,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Plant Functional Traits & Physiology,%,2.91,0.14,8,2.75,0.14,8
+Wan et al. (2025),Cwa,Pot,Maize,Whole season,Moderate,Whole season,Silt loam,0.61,0.36,7.7,Wheat straw,NA,9.9,6.2,68.3,Crop Productivity,g/plant,75,5.2,3,60,3.46,3
+Huang et al. (2024),BSh,Pot,Maize,Whole season,Moderate–Severe,Whole season,Loam,1.64,0.23,8.01,NA,50,8.06,1.07,71.1,Crop Productivity,g/plant,13,1,4,6,1,4
+Murtaza et al. (2024),NA,Pot,Tomato,Whole season,None (Control),Whole season,Sandy loam,0.5,2.57,7.16,NA,3,9.01,NA,NA,Crop Productivity,g,245.28,6.75,3,231.67,6.75,3
+Rahman et al. (2025),NA,Pot,Maize,Whole season,Moderate,Whole season,Sandy loam,0.91,13.42,7.8,Pine needle,35,7.11,15.9,NA,Crop Productivity,g,31.22,1.09,3,26.12,0.94,3
+Elshamly and Nassar (2023a),BWh,Field,Carrot,Whole season,Moderate,Whole season,Loamy sand,0.01,1.69,7.92,NA,NA,NA,NA,NA,Water Use Efficiency,kg/m³,11,0.5,3,7.8,0.4,3
+Kiani et al. (2024),BSk,Field,Nigella sativa,Whole season,Severe,Whole season,Clay loam,0.63,0.47,7,NA,15,9,83,NA,Crop Productivity,kg/ha,809,6.87,3,582,5.34,3
+Soltani-Gerdefaramarzi et al. (2024),BWh,Field,Guar,Whole season,Moderate,Whole season,Loam,1.7,5.7,7.7,NA,30,8.5,NA,52.2,Plant Functional Traits & Physiology,g/plant,4,0.2,3,3.2,0.3,3
+Naeem et al. (2024),BSh,Field,Maize,Whole season,Moderate,Whole season,NA,NA,NA,NA,Acacia wood,10,NA,NA,NA,Crop Productivity,kg/ha,12500,400,3,9200,300,3
+Naz et al. (2025),BSh,Field,Maize,Whole season,None (Control),Whole season,NA,1.9,0.55,7.8,NA,10,7.5,NA,1.2,Crop Productivity,kg/ha,3010,40,3,2250,60,3
+ELsaman et al. (2025),BWh,Pot,Arugula (Eruca sativa),Whole season,Salinity (Non-drought),Whole season,Sand,0.06,4.12,7.4,Rice straw,15,6.72,25.59,44.08,Crop Productivity,g/plant,4.5,0.2,3,2,0.1,3
+Asirifi et al. (2023),NA,Pot,Carrot,Whole season,None (Control),NA,Sandy loam,5.6,NA,5.3,NA,NA,NA,58,NA,Crop Productivity,g/plant,29,1.5,3,23,1.5,3
+Wan et al. (2023a),Cfb,Pot,Maize,Whole season,None (Control),Whole season,Silt loam,1.8,0.36,7.7,NA,NA,9.9,6.2,68.3,Crop Productivity,g/plant,62.3,2.78,4,22.32,4.96,4
+Elshamly (2023),BWh,Field,Groundnut,Whole season,Moderate,Reproductive stage,Sand,0.1,0.62,7.89,NA,NA,NA,NA,NA,Crop Productivity,kg/ha,8000,433.01,3,4300,346.41,3
+Nirukshan et al. (2022),Am,Pot,Coconut,Germination–seedling,Moderate,Whole season,Sand,0.18,0.23,4.84,Rice husk,NA,8.3,NA,37.08,Crop Productivity,g/pot,102.5,5.2,3,85,6.93,3
+Eissa et al. (2025),BWh,Pot,Mint,Whole season,Salinity (Non-drought),Whole season,Sandy clay loam,1.5,1.8,NA,Corn cobs,20,9.55,22,NA,Crop Productivity,g/pot,27,2.25,3,15,1.73,3
+Wu et al. (2014),BWk,Field,Cotton,Whole season,Moderate,Whole season,NA,NA,NA,NA,NA,NA,NA,NA,NA,Crop Productivity,kg/ha,2110,40,3,1760,160,3
