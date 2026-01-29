@@ -1,38 +1,5 @@
 ############################################################
-## CONSOLIDATED “CLEANED + GOLD-STANDARD” META-ANALYSIS SCRIPT
-## UPDATED FOR: CWPSdata.csv
-##
-## Includes fixes + additions:
-##  - CWPS naming harmonization:
-##      soil_ec_d_s_m -> soil_ec_ds_m
-##      soil_ph       -> soil_p_h
-##      biochar_ph    -> biochar_p_h
-##      climate_zone_koppen -> climate_zone (if needed)
-##      experiment_type -> study_type
-##  - ensure_complete(): no-glue, safe auto-prune
-##  - save_plot_robust(): defined before use
-##  - univariate screen_tbl initialized + empty-screen guard
-##  - MV model stabilized:
-##      * collapse high-cardinality factor moderators to Top-N + Other (MV-only)
-##      * optimizer cascade (nlminb -> optim BFGS -> Nelder-Mead)
-##      * optional simpler random as last resort
-##  - Publication bias:
-##      classic Egger/Begg/trimfill (study-aggregated by group)
-##      multilevel Egger + PET-PEESE + residual funnels (by group)
-##      Yang-style FE+VCV rho sensitivity (if clubSandwich supports it)
-##  - Optional orchard plots (if orchaRd installed)
-##  - Leave-one-study-out
-##  - Patchwork vector-native composites from saved .rds panels
-##  - Software versions + sessionInfo
-##
-## EDIT APPLIED (per request):
-##  - Force key categorical moderators to factor so they export factor figures:
-##      climate_zone, drought_level, drought_timing, soil_texture
-##  - Treat these as "high-cardinality candidates" in factor plotting
-##
-## ADDITIONAL EDIT (per your last request):
-##  - Create specific composite figures (Figure_4–Figure_8) from your listed panels
-##    with alphabet subpanel tags (a, b, c, ...), in addition to the auto composites.
+## GOLD-STANDARD META-ANALYSIS SCRIPT
 ############################################################
 
 suppressPackageStartupMessages({
@@ -1591,3 +1558,4 @@ message("✅ Meta-analysis completed successfully.")
 message("✅ Outputs saved in: ", output_dir)
 message("✅ Requested composites saved: Figure_4–Figure_8 (PDF + PNG) in ", output_dir)
 message("✅ Orchard plots attempted; see orchard_log.txt for details.")
+
